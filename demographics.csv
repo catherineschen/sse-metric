@@ -1,0 +1,101 @@
+pid,Fluent languages,Age,Sex,Ethnicity simplified,Country of birth,Country of residence,Nationality,Language,Student status,Employment status
+0,English,23,Male,Black,South Africa,South Africa,South Africa,English,Yes,Part-Time
+1,"English, Spanish",25,Male,Other,Mexico,Mexico,Mexico,Spanish,No,Full-Time
+2,"Polish, English",23,Male,White,Poland,Poland,Poland,Polish,Yes,"Not in paid work (e.g. homemaker', 'retired or disabled)"
+3,"English, Portuguese",20,Male,White,Portugal,Portugal,Portugal,Portuguese,Yes,Full-Time
+4,English,21,Female,Black,South Africa,South Africa,South Africa,English,None,None
+5,"Albanian, English, Greek",21,Female,White,Greece,Greece,Albania,Greek,Yes,Part-Time
+6,English,28,Male,White,Canada,Canada,Canada,English,No,Unemployed (and job seeking)
+7,English,35,Male,White,United Kingdom,United Kingdom,United Kingdom,English,No,Full-Time
+8,"English, Portuguese",23,Male,Mixed,United Kingdom,Portugal,United Kingdom,English,No,Unemployed (and job seeking)
+9,"English, Spanish",27,Female,Other,Mexico,Mexico,Mexico,Spanish,No,Unemployed (and job seeking)
+10,"English, Spanish, Portuguese",22,Male,White,Portugal,Portugal,Portugal,Portuguese,Yes,Part-Time
+11,"Italian, English",24,Female,White,Italy,Italy,Italy,Italian,Yes,Other
+12,"Spanish, Italian, French, English",39,Female,White,Italy,Italy,Italy,Italian,No,Part-Time
+13,"Polish, English",23,Male,White,Poland,Poland,Poland,Polish,Yes,Full-Time
+14,"Czech, French, German, Italian, Polish, English",27,Male,White,Poland,Poland,Poland,Polish,None,Full-Time
+15,"English, Greek, German",25,Male,White,Greece,Greece,Greece,Greek,Yes,Full-Time
+16,"English, Portuguese",22,Male,White,Portugal,Portugal,Portugal,Portuguese,Yes,Full-Time
+17,English,27,Male,White,United Kingdom,United Kingdom,United Kingdom,English,No,Full-Time
+18,"English, Spanish",26,Female,Mixed,Mexico,Mexico,Mexico,Spanish,No,Full-Time
+19,English,41,Female,White,United Kingdom,United Kingdom,United Kingdom,English,No,Full-Time
+20,"Czech, English, German, Polish, French, Russian",22,Male,White,Poland,Poland,Poland,Polish,Yes,Full-Time
+21,English,47,Male,Black,Nigeria,United Kingdom,United Kingdom,English,No,Other
+22,"English, Polish",33,Male,White,Poland,Poland,Poland,Polish,No,Full-Time
+23,"Japanese, English, Polish",26,Female,White,Poland,Poland,Poland,Polish,Yes,Part-Time
+24,"English, Spanish, Portuguese",22,Male,White,Portugal,Portugal,Portugal,Portuguese,Yes,Part-Time
+25,"English, German",36,Male,White,Germany,Germany,Germany,German,No,None
+26,"Polish, English",20,Male,White,Poland,Poland,Poland,Polish,Yes,Part-Time
+27,English,31,Male,White,United States,United States,United States,English,No,Full-Time
+28,English,35,Male,White,United Kingdom,United Kingdom,United Kingdom,English,No,Full-Time
+29,"English, Bengali",29,Male,Asian,United Kingdom,United Kingdom,United Kingdom,English,No,Full-Time
+30,"Greek, English",33,Male,White,Greece,Greece,Greece,Greek,No,Part-Time
+31,English,23,Male,Black,Nigeria,United Kingdom,Nigeria,English,Yes,Part-Time
+32,"English, Farsi",34,Male,White,United Kingdom,United Kingdom,United Kingdom,English,None,None
+33,"English, Portuguese",22,Female,White,Portugal,Portugal,Portugal,Portuguese,Yes,Part-Time
+34,English,45,Male,White,United States,United States,United States,English,No,Full-Time
+35,"Czech, English, German, Polish, Russian",25,Male,White,Poland,Poland,Poland,Polish,None,Full-Time
+36,English,24,Male,Asian,United Kingdom,United Kingdom,United Kingdom,English,No,Full-Time
+37,"English, Spanish",31,Male,White,Chile,Chile,Chile,Spanish,No,Part-Time
+38,"English, German, Polish",23,Male,White,Poland,Germany,Germany,Polish,Yes,Full-Time
+39,"Italian, English, French, Spanish",41,Male,White,Italy,Italy,Italy,Italian,No,Full-Time
+40,English,18,Male,White,United Kingdom,United Kingdom,United Kingdom,English,Yes,Part-Time
+41,English,33,Female,White,United Kingdom,United States,United Kingdom,English,No,Full-Time
+42,English,36,Female,Black,Zimbabwe,South Africa,South Africa,English,No,Full-Time
+43,English,38,Female,White,United Kingdom,United Kingdom,United Kingdom,English,No,Part-Time
+44,English,48,Male,Mixed,United Kingdom,United Kingdom,United Kingdom,English,No,Full-Time
+45,"Polish, English",25,Male,White,Poland,Poland,Poland,Polish,Yes,Part-Time
+46,"Portuguese, English",23,Male,White,Portugal,Portugal,Portugal,English,Yes,Other
+47,"Spanish, English",29,Female,White,United States,United States,United States,English,No,Full-Time
+48,English,56,Male,White,United States,United Kingdom,United Kingdom,English,No,"Not in paid work (e.g. homemaker', 'retired or disabled)"
+49,English,53,Male,White,United Kingdom,United Kingdom,United Kingdom,English,No,Full-Time
+50,"Portuguese, English, Spanish",23,Male,White,Brazil,Portugal,Portugal,Portuguese,No,Unemployed (and job seeking)
+51,English,29,Male,White,United Kingdom,United Kingdom,United Kingdom,English,No,Other
+52,"Spanish, English, French",34,Female,White,Spain,Spain,Spain,Spanish,Yes,Full-Time
+53,"English, French, Italian, Polish, Spanish",26,Female,White,Poland,Poland,Poland,Polish,No,Part-Time
+54,English,30,Male,White,United Kingdom,United Kingdom,United Kingdom,English,No,Full-Time
+55,English,26,Female,White,United Kingdom,United Kingdom,United Kingdom,English,Yes,Full-Time
+56,"English, Spanish",33,Male,White,Spain,Spain,Spain,Spanish,No,Unemployed (and job seeking)
+57,English,47,Male,White,United Kingdom,United Kingdom,United Kingdom,English,No,Full-Time
+58,"Chinese, English, German, Cantonese, Mandarin",25,Male,Asian,China,None,None,Chinese,Yes,Part-Time
+59,"Hungarian, English",19,Male,White,Hungary,Hungary,Hungary,Hungarian,No,Full-Time
+60,English,39,Female,White,United States,United States,United States,English,No,"Not in paid work (e.g. homemaker', 'retired or disabled)"
+61,"Arabic, Chinese, English, Dutch, German, Italian, Japanese, Portuguese, Polish, Russian, Spanish, French, Korean, Turkish, Hindi, Swedish, Punjabi, Thai, Greek, Hebrew, Danish, Czech, Cantonese, Mandarin, Vietnamese, Indonesian",34,Male,Other,None,Australia,Australia,English,None,None
+62,"Portuguese, English",27,Male,White,Portugal,Portugal,Portugal,Portuguese,No,Full-Time
+63,"English, Turkish",32,Female,White,Turkey,Spain,Turkey,Turkish,No,Unemployed (and job seeking)
+64,English,22,Female,White,United Kingdom,United Kingdom,United Kingdom,English,Yes,Part-Time
+65,"English, Hindi, Urdu, Other",36,Male,Asian,India,United Kingdom,India,Urdu,No,Other
+66,"English, Polish, German, French",29,Male,White,Poland,Poland,Poland,Polish,No,Other
+67,English,27,Male,White,United Kingdom,United Kingdom,United Kingdom,English,Yes,Full-Time
+68,"English, French, Greek",22,Male,White,Greece,Greece,Greece,Greek,Yes,Part-Time
+69,English,41,Male,White,United Kingdom,United Kingdom,United Kingdom,English,None,None
+70,"English, Russian",28,Male,White,Russian Federation,United Kingdom,Russian Federation,Russian,No,Part-Time
+71,"Polish, English",23,Male,White,Poland,Poland,Poland,Polish,Yes,Other
+72,"Arabic, English",28,Male,Black,Nigeria,United Kingdom,Nigeria,English,No,Unemployed (and job seeking)
+73,English,48,Female,White,United Kingdom,United Kingdom,United Kingdom,English,No,Part-Time
+74,English,28,Male,White,United Kingdom,United Kingdom,United Kingdom,English,No,None
+75,English,37,Female,White,United Kingdom,United Kingdom,United Kingdom,English,Yes,Full-Time
+76,English,33,Male,White,United Kingdom,United Kingdom,United Kingdom,English,No,Full-Time
+77,"Slovenian, Russian, Polish, Czech, English",41,Male,White,Poland,Poland,Poland,Polish,No,Full-Time
+78,English,27,Female,White,United States,United Kingdom,United States,English,No,"Not in paid work (e.g. homemaker', 'retired or disabled)"
+79,"Somali, English",24,Male,Black,United Kingdom,United Kingdom,United Kingdom,English,No,Part-Time
+80,English,57,Male,White,United Kingdom,United Kingdom,United Kingdom,English,No,"Not in paid work (e.g. homemaker', 'retired or disabled)"
+81,"Czech, English, French, German, Russian, Slovak",41,Female,White,Czech Republic,Czech Republic,Czech Republic,Czech,Yes,Full-Time
+82,"English, Polish, Spanish",38,Male,White,Poland,United Kingdom,United Kingdom,Polish,No,Full-Time
+83,"Spanish, English",26,Male,White,Spain,Spain,Spain,Spanish,No,Part-Time
+84,"Polish, Czech, German, English, Spanish, Italian, French",32,Female,White,Poland,Poland,Poland,Polish,No,Full-Time
+85,English,36,Male,White,United Kingdom,United Kingdom,United Kingdom,English,No,Full-Time
+86,English,31,Male,White,United States,United States,United States,English,No,None
+87,English,34,Female,Black,Zimbabwe,South Africa,Zimbabwe,English,No,Full-Time
+88,"English, French, Spanish, Italian",55,Male,White,Italy,Italy,Italy,Italian,No,Full-Time
+89,English,42,Male,White,United Kingdom,United Kingdom,United Kingdom,English,No,Full-Time
+90,"English, Spanish",27,Female,Other,United States,United States,United States,English,Yes,Full-Time
+91,English,30,Male,White,United Kingdom,United Kingdom,United Kingdom,English,No,Full-Time
+92,English,36,Female,White,United Kingdom,United Kingdom,United Kingdom,English,No,Other
+93,English,23,Female,Asian,United Kingdom,United Kingdom,United Kingdom,English,No,Full-Time
+94,"Portuguese, English",22,Male,White,Portugal,Portugal,Portugal,Portuguese,Yes,Unemployed (and job seeking)
+95,English,42,Male,White,United Kingdom,United Kingdom,United Kingdom,English,Yes,Full-Time
+96,English,31,Male,Black,Nigeria,United Kingdom,Nigeria,English,Yes,Full-Time
+97,"Chinese, English, French, Spanish, Arabic",38,None,None,None,Canada,None,French,None,None
+98,"English, Hungarian",25,Female,White,Hungary,Hungary,Hungary,Hungarian,No,Full-Time
+99,English,31,Female,White,Portugal,Portugal,Portugal,Portuguese,No,Full-Time

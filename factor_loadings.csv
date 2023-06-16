@@ -1,0 +1,22 @@
+factor,item_id,weight,label
+2,0,0.911,Simultability
+2,2,0.938,Decomposability
+2,4,0.884,Algorithmic Transparency
+2,6,0.842,Causality
+2,8,0.792,Uncertainty
+2,12,0.723,Visibility
+1,15,0.703,Transferability
+1,19,0.825,Understandability
+1,21,0.868,Informativeness
+2,22,0.928,Global Interpretability
+2,24,0.921,Local Interpretability
+2,26,0.704,Counterfactuals
+2,34,0.789,Units of Explanation
+1,37,0.851,Acceptability
+2,38,0.894,Faithfulness
+1,41,0.905,Plausibility
+2,46,0.877,Trustworthiness
+1,47,0.878,Trustworthiness
+1,49,0.888,Justifiability
+1,None,0.997,Utility
+2,None,-0.944,Roadblocks
